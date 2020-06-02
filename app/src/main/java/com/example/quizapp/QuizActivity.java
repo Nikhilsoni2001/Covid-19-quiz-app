@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 public class QuizActivity extends AppCompatActivity {
 
-    int score;
+    int score = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -340,12 +340,13 @@ public class QuizActivity extends AppCompatActivity {
         checkQuestion13();
     }
 
+    public void reset() {
+        score = 0;
+    }
+
     public void finalSubmit(View view) {
         verifyScore();
         Toast.makeText(this, "Great job, Your Score is: " + score, Toast.LENGTH_SHORT).show();
-//        Intent intent = new Intent(this, ResultActivity.class);
-//        intent.putExtra("totalScore", score);
-//        startActivity(intent);
-//        finish();
+        reset();
     }
 }
