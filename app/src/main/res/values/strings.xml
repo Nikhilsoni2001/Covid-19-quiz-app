@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="welcome">Welcome</string>
+    <string name="start">Start</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="submit">Submit</string>
+
+    <string name="one1">Name of the Virus</string>
+    <string name="one2">Name of the Disease</string>
+    <string name="one3">Name of the Drug</string>
+    <string name="one4">A Place in China</string>
+
+    <string name="two1">Fever</string>
+    <string name="two2">Cough</string>
+    <string name="two3">Tiredness</string>
+    <string name="two4">Sneezing</string>
+
+    <string name="three1">SARS-CoV-2</string>
+    <string name="three2">SARS</string>
+    <string name="three3">MERS</string>
+    <string name="three4">NIPAH</string>
+
+    <string name="four1">Wash with soap and water</string>
+    <string name="four2">Wash with plain water</string>
+    <string name="four3">Wipe hands with tissue paper or cloth</string>
+    <string name="four4">Wash with soap and water and scrub at least for 20 seconds</string>
+
+    <string name="five1">Physical distancing 1 meter</string>
+    <string name="five2">Physical distancing 2 meter</string>
+    <string name="five3">Physical distancing 6 feet</string>
+    <string name="five4">Both 2 and 3</string>
+
+    <string name="six1">Elderly above 65 years and above</string>
+    <string name="six2">People with uncontrolled diabetes</string>
+    <string name="six3">People with other Pre-existing diseases</string>
+    <string name="six4">All the above</string>
+
+    <string name="seven1">Smoking</string>
+    <string name="seven2">Wearing multiple masks</string>
+    <string name="seven3">Taking antibiotics</string>
+    <string name="seven4">All the above</string>
+
+    <string name="eight1">Droplets spread - When a person sneezes or cough</string>
+    <string name="eight2">Constant touching of face, eyes or mouth in public place</string>
+    <string name="eight3">Close contact with a Covid19 infected person</string>
+    <string name="eight4">All the above</string>
+
+    <string name="nine1">Cremation</string>
+    <string name="nine2">Burial</string>
+    <string name="nine3">Both 1 and 2</string>
+    <string name="nine4">None of the above</string>
+
+    <string name="ten1">Yes</string>
+    <string name="ten2">No</string>
+
+
+    <string name="eleven1">Fever</string>
+    <string name="eleven2">Dry cough</string>
+    <string name="eleven3">Tiredness</string>
+    <string name="eleven4">All the above</string>
+
+    <string name="twelve1">Public Health Specialists</string>
+    <string name="twelve2">Health Data Scientists</string>
+    <string name="twelve3">Medical Doctors</string>
+    <string name="twelve4">All the above</string>
+
+
+    <string name="option1">option1</string>
+    <string name="option2">option2</string>
+    <string name="option3">option3</string>
+    <string name="option4">option4</string>
+
+    <string name="question1">What is Covid-19?</string>
+    <string name="question2">What are The Symptoms of Covid-19?</string>
+    <string name="question3">Which virus causes the disease COVID19?</string>
+    <string name="question4">Is there anything I should not do?</string>
+    <string name="question5">How can we make our hands safe?</string>
+    <string name="question6">What are the methods to prevent COVID19?</string>
+    <string name="question7">Who is at a higher risk of developing complications from COVID-19?</string>
+    <string name="question8">How does Coronavirus transmit?</string>
+    <string name="question9">What are the safe methods of disposal of dead bodies of persons who have died of suspected or confirmed COVID-19?</string>
+    <string name="question10">Is there a vaccine, drug or treatment for COVID-19?</string>
+    <string name="question11">What are the most common symptoms of COVID-19</string>
+    <string name="question12">Who conducts scientific research about diseases like COVID19?</string>
+    <string name="stay_home">Stay Home</string>
+    <string name="stay_safe">Stay Safe</string>
+    <string name="name">name</string>
+    <string name="question13">Can it be controlled? (Yes//No)</string>
+    <string name="yes_no">Yes/No</string>
+    <string name="submit_your_answers">Submit your answers</string>
+    <string name="your_score_is">Your Score is:</string>
+    <string name="_0">0</string>
+</resources>
